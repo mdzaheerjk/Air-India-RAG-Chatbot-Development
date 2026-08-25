@@ -4,7 +4,7 @@ Develop an AI-powered chatbot tailored for Air India, leveraging AWS Bedrock API
 ## Project Preview
 
 <p align="center">
-  <img src="https://backend.krishnaik.in/media/project_banners/-gemini_generated_image_t078let078let078-c4a1f800b552a8ebcb7b1d163577df32.jpg"
+  <img src="https://d14omfvx1qlabb.cloudfront.net/krishnaik.in/media/project_banners/-gemini_generated_image_t078let078let078-c4a1f800b552a8ebcb7b1d163577df32.jpg"
        alt="Project Preview"
        width="600" />
 </p>
@@ -12,7 +12,7 @@ Develop an AI-powered chatbot tailored for Air India, leveraging AWS Bedrock API
 ## System Architecture
 
 <p align="center">
-  <img src="https://backend.krishnaik.in/media/project_architecture_diagrams/Air_India.JPG"
+  <img src="https://d14omfvx1qlabb.cloudfront.net/krishnaik.in/media/project_architecture_diagrams/Air_India.JPG"
        alt="System Architecture"
        width="600" />
 </p>
